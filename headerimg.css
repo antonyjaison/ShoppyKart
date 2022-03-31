@@ -38,6 +38,6 @@
         background-size: cover;
         height: calc(90vh - 80px);
         box-shadow: inset 0px 0px 1000px black;
-        filter: brightness(50%);
+        filter: brightness(30%);
       }
 }
