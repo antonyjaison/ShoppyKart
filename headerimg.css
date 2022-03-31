@@ -1,0 +1,43 @@
+.home-img{
+    
+    background: url(images/home-img\ \(1\).jpg) no-repeat;
+    background-size: cover;
+    height: calc(90vh - 80px);
+    box-shadow: inset 0px 0px 1000px black;
+    filter: brightness(30%);
+  }
+  .product-page-img{
+    background: url(images/2\ \(2\).jpg) no-repeat;
+    background-size: cover;
+    height: calc(50vh - 80px);
+    box-shadow: inset 0px 0px 1000px black;
+    filter: brightness(50%);
+}
+.login-page-img{
+    background: url(images/2\ \(2\).jpg) no-repeat;
+    background-size: cover;
+    height: calc(50vh - 80px);
+    box-shadow: inset 0px 0px 1000px black;
+    filter: brightness(50%);
+}
+.payment-header-img{
+    background: url(images/2\ \(1\).jpg);
+    background-size: cover;
+    height: calc(60vh - 80px);
+    box-shadow: inset 0px 0px 1000px black;
+    filter: brightness(30%);
+}
+
+
+
+
+@media(max-width:450px){
+    .home-img{
+        width: 100%;
+        background: url(images/home-img\ -mobile\ \(1\).jpg) no-repeat;
+        background-size: cover;
+        height: calc(90vh - 80px);
+        box-shadow: inset 0px 0px 1000px black;
+        filter: brightness(50%);
+      }
+}

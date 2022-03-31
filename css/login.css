@@ -1,0 +1,44 @@
+.home-login-cart-btn {
+  height: 35px;
+  width: 100px;
+  background-color: #0275d8;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  position: relative;
+  bottom: 9px;
+  transition: 0.5s;
+}
+.home-login-cart-btn:hover {
+  background-color: #014d91;
+}
+
+.login-page-heading{
+    position: absolute;
+    top: 23%;
+    left: 10%;
+    color: white;
+    
+}
+.login-page-para{
+    position: absolute;
+    bottom: 62%;
+    right: 10%;
+    font-size: 18px;
+    font-weight: 600;
+}
+.login-form{
+  height: 50px;
+  width: 360px;
+  border: none;
+  background-color:rgb(233, 233, 233);
+  padding-left: 15px;
+  border-radius: 5px;
+}
+.form-links{
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+  color: rgb(77, 77, 77);
+}
+
